@@ -363,3 +363,8 @@ hr.soft {
 .t2what {
 
 }
+
+.counter{
+  position: absolute;
+  right: 10%;  
+}
